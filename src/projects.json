@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Rick and Morty Flash Cards",
+        "link": "https://dempsey496.github.io/RickandMortyCards/",
+        "image": "https://github.com/Dempsey496/RickandMortyCards/blob/main/screenshots/Second-Page.png?raw=true"
+    },
+    {
+        "id": 2,
+        "title": "Employee Directory",
+        "link": "https://cryptic-beyond-19091.herokuapp.com/",
+        "image": "https://github.com/Dempsey496/employee-directory/blob/main/images/Sorted-Last.png?raw=true"
+    },
+    {
+        "id": 3,
+        "title": "Burger List App",
+        "link": "https://serene-shore-27495.herokuapp.com/",
+        "image": "https://github.com/Dempsey496/Can_Has_Cheeseburger/blob/main/public/assets/img/burger.jpg?raw=true"
+    }
+]
