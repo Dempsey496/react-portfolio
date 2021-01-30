@@ -15,12 +15,12 @@ class Projects extends Component {
           <div className="row">
             {projects.map((project) => (
               <div className="col-6" style={{padding: "10px"}}>
-                <div className="card">
+                <div className="card text-white bg-secondary">
                   <img
                     src={project.image}
                     className="card-img-top"
                     alt={project.title}
-                    style={{ width: "300px", height: "200px" }}
+                    style={{ margin: "auto", width: "300px", height: "200px", borderRadius: "50%" }}
                   />
                   <div className="card-body">
                     <h5 className="card-title">{project.title}</h5>
