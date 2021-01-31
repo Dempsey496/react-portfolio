@@ -14,20 +14,22 @@ class Projects extends Component {
         <div className="container">
           <div className="row">
             {projects.map((project) => (
-              <div className="col-6" style={{padding: "10px"}}>
+              <div className="col-6" style={{ padding: "10px" }}>
                 <div className="card text-white bg-secondary">
                   <img
                     src={project.image}
                     className="card-img-top"
                     alt={project.title}
-                    style={{ margin: "auto", width: "300px", height: "200px", borderRadius: "50%" }}
+                    style={{
+                      margin: "auto",
+                      width: "300px",
+                      height: "200px",
+                      borderRadius: "50%",
+                    }}
                   />
                   <div className="card-body">
                     <h5 className="card-title">{project.title}</h5>
-                    <p className="card-text">
-                      Some quick example text to build on the card title and
-                      make up the bulk of the card's content.
-                    </p>
+                    <p className="card-text">{project.description}</p>
                     <a href={project.link} className="btn btn-primary">
                       Check Out This Project
                     </a>

@@ -3,18 +3,21 @@
         "id": 1,
         "title": "Rick and Morty Flash Cards",
         "link": "https://dempsey496.github.io/RickandMortyCards/",
-        "image": "https://github.com/Dempsey496/RickandMortyCards/blob/main/screenshots/Second-Page.png?raw=true"
+        "image": "https://github.com/Dempsey496/RickandMortyCards/blob/main/screenshots/Second-Page.png?raw=true",
+        "description": "This was one of my first projects while completing Georgia Tech's Coding BootCamp."
     },
     {
         "id": 2,
         "title": "Employee Directory",
         "link": "https://cryptic-beyond-19091.herokuapp.com/",
-        "image": "https://github.com/Dempsey496/employee-directory/blob/main/images/Sorted-Last.png?raw=true"
+        "image": "https://github.com/Dempsey496/employee-directory/blob/main/images/Sorted-Last.png?raw=true",
+        "description": "This was my first app made with react setting state to map and filter a list a company employees."
     },
     {
         "id": 3,
         "title": "Burger List App",
         "link": "https://serene-shore-27495.herokuapp.com/",
-        "image": "https://github.com/Dempsey496/Can_Has_Cheeseburger/blob/main/public/assets/img/burger.jpg?raw=true"
+        "image": "https://github.com/Dempsey496/Can_Has_Cheeseburger/blob/main/public/assets/img/burger.jpg?raw=true",
+        "description": "This is a simple app designed to add burgers to a list of 'Burgers to Eat', and then move to a seperate 'Devoured' list after said burger has been eaten."
     }
 ]
